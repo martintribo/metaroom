@@ -1,0 +1,11 @@
+{
+  "name": "metaroom",
+  "version": "1.0.0",
+  "description": "An experimental sandbox for a multi app NAF room. Contains NAF schemas and plugins to make multiple apps work better.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Tribo",
+  "license": "MIT"
+}
